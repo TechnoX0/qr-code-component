@@ -19,7 +19,7 @@ I build a QR Code webpage from Frontend Mentor
 ### Links
 
 - Solution URL: [https://github.com/TechnoX0/fm-qr-code]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://technox0.github.io/qr-code-component/]
 
 ## My process
 I broke down the problem into smaller components and started building it bit by bit. First is centering the card using a grid property, then added the image and text.
